@@ -1,19 +1,18 @@
 ### 📊 MELHORANDO A CADA DIA!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=0E11F7&width=600&height=100&lines=NOC+-+Network+Operations+Center+%F0%9F%9A%A8;Especialista+em+Monitoramento+de+Redes+%F0%9F%94%8D;DWDM+e+Redes+de+Transporte+%C3%93ptico+%F0%9F%9B%B0%EF%B8%8F;Zabbix%2C+PRTG%2C+LibreNMS+%26+Grafana+%F0%9F%93%8A;Administra%C3%A7%C3%A3o+de+Redes+Mikrotik+%26+BGP+%F0%9F%8C%90;Switches+Huawei%2C+Juniper%2C+Datacom+e+Cisco+%E2%9A%99%EF%B8%8F;Gest%C3%A3o+de+OLTs+Nokia%2C+V-SOL%2C+CDATA%2C+Fiberhome+e+Intelbras+%F0%9F%93%A1;Gerenciamento+de+IP+com+PHPIPAM+%F0%9F%A7%A0;Virtualiza%C3%A7%C3%A3o+com+Proxmox+e+Linux+%F0%9F%96%A5%EF%B8%8F;Solu%C3%A7%C3%B5es+para+ISPs+e+Provedores+%F0%9F%9A%80)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=2D44FF&width=700&height=100&lines=Especialista+em+Monitoramento+de+Redes+%F0%9F%94%8D;DWDM+e+Redes+de+Transporte+%C3%93ptico+%F0%9F%9B%B0%EF%B8%8F;Zabbix%2C+PRTG%2C+LibreNMS+%26+Grafana+%F0%9F%93%8A;Administra%C3%A7%C3%A3o+de+Redes+Mikrotik+%26+BGP+%F0%9F%8C%90;Switches+Huawei%2C+Juniper%2C+Datacom+e+Cisco+%E2%9A%99%EF%B8%8F;OLTs+Nokia%2C+V-SOL%2C+CDATA%2C+Fiberhome+e+Intelbras+%F0%9F%93%A1;Gerenciamento+de+IP+com+PHPIPAM+%F0%9F%A7%A0;Virtualiza%C3%A7%C3%A3o+com+Proxmox+e+Linux+%F0%9F%96%A5%EF%B8%8F;Solu%C3%A7%C3%B5es+para+ISPs+e+Provedores+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ![Marcos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcosmororo&show_icons=true&theme=dracula)
 
 # 👨‍💻 Sobre Mim
 
-Olá! Meu nome é **Marcos Renan]** e trabalho no **NOC (Network Operations Center)** da [Online Telecom](https://www.onlinetelecom.com.br). Sou apaixonado por redes, monitoramento e infraestrutura. Aqui você encontrará um pouco sobre minhas habilidades, ferramentas que utilizo e projetos que desenvolvo ou apoio.
+Olá! Meu nome é **Marcos Renan** e trabalho no **NOC (Network Operations Center)** da [Online Telecom](https://www.onlinetelecom.com.br). Sou apaixonado por redes, monitoramento e infraestrutura. Aqui você encontrará um pouco sobre minhas habilidades, ferramentas que utilizo e projetos que desenvolvo ou apoio.
 
 ---
 
 ## 🛰️ Atuação
 
-Atualmente atuo com tecnologias de **transporte óptico**, redes e monitoramento de sistemas. Meu dia a dia envolve:
+Atualmente atuo com tecnologias de transporte óptico, redes e **monitoramento** de sistemas. Meu dia a dia envolve:
 
 - Suporte e gestão de redes de alta disponibilidade
 - Monitoramento proativo de equipamentos e links
@@ -46,7 +45,7 @@ Atualmente atuo com tecnologias de **transporte óptico**, redes e monitoramento
 | ![Intelbras](https://img.shields.io/badge/Intelbras-CPEs-brightgreen) | CPEs, ONU |
 | ![Nokia](https://img.shields.io/badge/Nokia-Fiber-lightblue) | OLT/ONU |
 | ![ZTE](https://img.shields.io/badge/ZTE-OLT%2FONU-darkblue?logo=zte&logoColor=white) | Equipamentos GPON |
-| ![VSOL](https://img.shields.io/badge/VSOL-GPON-darkred?logoColor=white) | Equipamentos ONU |
+| ![VSOL](https://img.shields.io/badge/VSOL-GPON-darkred?logoColor=white) | Equipamentos GPON |
 
 ### 🧠 Virtualização & Infra
 
